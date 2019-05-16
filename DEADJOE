@@ -1,0 +1,50 @@
+
+*** These modified files were found in JOE when it aborted on Thu Apr  4 16:08:31 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+y
+
+*** File '(Unnamed)'
+DrawStringApplet.java
+register.htm
+register.htm
+register.htm
+register.htm
+register.htm
+register.htm
+p1.pl
+index.htm
+register.cgi
+login.cgi
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jpicorc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jpicorc
+
+*** These modified files were found in JOE when it aborted on Sat Apr  6 01:29:49 2019
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+y
+
+*** File '(Unnamed)'
+index.htm
+p1.pl
+register.htm
+register.cgi
+register.cgi
+register.htm
+register.htm
+register.htm
+register.htm
+register.htm
+p2.pl
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jpicorc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jpicorc

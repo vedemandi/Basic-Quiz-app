@@ -1,0 +1,12 @@
+<html>
+
+<head>
+ <title> MY 1st WEBSITE </title> 
+</head> 
+
+<frameset rows="250,*" frameborder="0" border="0" framespacing="0">
+  <frame src="index-topmenu.htm" border="0" name="MENU">
+   <fram src="register.htm" border="0" name="take quiz"> 
+</frameset>
+
+</html>
